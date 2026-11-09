@@ -4,7 +4,7 @@ The organization's **public** defaults. GitHub serves every file here to each re
 
 | Path | What it gives every repo |
 |---|---|
-| `ISSUE_TEMPLATE/` | the issue forms (Bug, Feature, Task), each setting its issue type |
+| `.github/ISSUE_TEMPLATE/` | the issue forms (Bug, Feature, Task), each setting its issue type |
 | `pull_request_template.md` | the pull request description |
 | `CONTRIBUTING.md` | the contribution guide |
 | `workflow-templates/` | starter workflows under **Actions → New workflow**, "By Hastewell Test" |
