@@ -1,0 +1,5 @@
+{
+  "name": "Org smoke check",
+  "description": "Calls the org's reusable smoke workflow in automation. A build-time proof of the reference mechanism.",
+  "categories": []
+}
