@@ -1,0 +1,10 @@
+name: Feature
+description: A request, idea or new functionality.
+type: Feature
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What and why
+    validations:
+      required: true
