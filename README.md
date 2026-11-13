@@ -7,7 +7,6 @@ The organization's **public** defaults. GitHub serves every file here to each re
 | `.github/ISSUE_TEMPLATE/` | the issue forms (Bug, Feature, Task), each setting its issue type |
 | `pull_request_template.md` | the pull request description |
 | `CONTRIBUTING.md` | the contribution guide |
-| `workflow-templates/` | starter workflows under **Actions → New workflow**, "By Hastewell Test" |
 | `profile/README.md` | the public org profile |
 
 ## Rules for this repo
